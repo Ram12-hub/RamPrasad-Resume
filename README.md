@@ -1,33 +1,29 @@
-<h1 align="center">Hi, I'm Ram 👋</h1>
+👋 Hi, I'm Ram Prasad Nayudu
 
-**Aspiring Data Scientist | Data Analyst | AI Enthusiast**  
-Passionate about **data, analytics, machine learning, and automation**  
-Exploring **Power BI, Python, SQL, NLP, and Deep Learning**  
+I am a Data Engineer with 3+ years of experience building scalable data platforms on AWS and Azure. I specialise in designing Data Lake and Lakehouse architectures, developing ETL pipelines using PySpark, and optimising large-scale data workflows for analytics and reporting.
 
----
+My expertise includes:
 
-## **Skills & Technologies**
-**Data Analysis**: Python (Pandas, NumPy), SQL, Excel  
-**Data Visualization**: Power BI, Matplotlib, Seaborn  
-**Machine Learning**: Scikit-learn, TensorFlow, NLP  
-**Automation**: Python Scripting, Web Scraping  
+Azure Data Lake (ADLS Gen2), Azure Databricks
 
----
+AWS (S3, Glue, Redshift)
 
-## **Featured Projects**
-🔹 **[Project 1: Sales Analysis Dashboard](https://github.com/yourusername/sales-analysis)**  
-       Power BI dashboard analyzing sales trends, customer behavior, and revenue insights.  
+PySpark, SQL, Python
 
-🔹 **[Project 2: Customer Churn Prediction](https://github.com/yourusername/churn-prediction)**  
-     Machine learning model predicting customer churn using Python and SQL.  
+Delta Lake, Bronze–Silver–Gold architecture
 
----
+Apache Airflow
 
-## **Let's Connect!**
- Email: ramnayudu845@gmail.com  
- LinkedIn: https://www.linkedin.com/in/ram-prasad-nayudu-219958225/ 
- Portfolio: https://github.com/Ram12-hub
+Data modelling & performance optimisation
 
----
+I enjoy solving complex data engineering problems, improving pipeline efficiency, and enabling data-driven decision making through clean and reliable data systems.
 
-⭐ **Star this repo** if you like my work!  
+Currently focused on:
+
+Advanced Spark optimisation
+
+Distributed data processing
+
+Cloud-native Data Engineering best practices
+
+I’m actively working towards growing into a Senior Data Engineer role and contributing to large-scale, high-performance data systems.
